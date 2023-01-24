@@ -2,7 +2,7 @@
 Title     : Topic Tags
 Domain    : Arrays, Sorting, Data Structures, Algorithms
 Author    : Asmit Singh
-Created   : 24 Jan 2023
+Solved On   : 24 Jan 2023
 Solved Using   : Python3
 '''
 
