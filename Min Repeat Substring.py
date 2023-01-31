@@ -1,6 +1,6 @@
 '''
 Title     : Minimum times A has to be repeated such that B is a substring of it
-Domain    : Searching, Strings, Pateern Searching, Data Structures, Algorithms
+Domain    : Searching, Strings, Pattern Searching, Data Structures, Algorithms
 Author    : Asmit Singh
 Solved On   : 31 Jan 2023
 Solved Using   : Python3
