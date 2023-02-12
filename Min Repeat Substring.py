@@ -11,15 +11,12 @@ class Solution:
         if str2 in rep:
             return True
         return False
-    
     def minRepeats(self, A, B):
         ans = 1
         S = A
-        
         while len(S)<len(B):
             S += A 
             ans += 1 
-            
         if self.issubstring(B,S):
             return ans 
         elif self.issubstring(B,S+A):
