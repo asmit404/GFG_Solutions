@@ -7,9 +7,7 @@ Solved Using   : Python3
 '''
 
 class Solution:
-    #Function to perform case-specific sorting of strings.
     def caseSort(self,s,n):
-        #code here
         dic1 = {}
         dic2 = {}
         ans = []
