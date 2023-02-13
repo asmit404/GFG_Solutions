@@ -29,7 +29,6 @@ class Solution():
             return -1
                
     def largestSumCycle(self, N, Edge):
-        #your code goes here
         visited = [0]*N
         res = -1
         for u in range(N):
