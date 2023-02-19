@@ -1,6 +1,6 @@
 '''
 Title     : Apple Sequences
-Domain    : Two Poimter Algorithm, Implementation, Algorithms
+Domain    : Two Pointer Algorithm, Implementation, Algorithms
 Author    : Asmit Singh
 Solved On   : 18 Feb 2023
 Solved Using   : Python3
