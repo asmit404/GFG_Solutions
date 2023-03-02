@@ -2,7 +2,7 @@
 Title     : Walls Coloring II
 Domain    : Dynamic Programming
 Author    : Asmit Singh
-Solved On   : 1 Mar 2023
+Solved On   : 2 Mar 2023
 Solved Using   : Python3
 '''
 
