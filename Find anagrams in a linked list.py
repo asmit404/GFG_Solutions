@@ -6,7 +6,6 @@ Solved On   : 9 Mar 2023
 Solved Using   : Python3
 '''
 
-
 class Solution:
     def findAnagrams(self, head, s):
         a = [0]*26
