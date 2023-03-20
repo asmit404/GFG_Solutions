@@ -2,7 +2,7 @@
 Title     : Median of the Subarrays
 Domain    : Sorting, Map, Data Structures, Algorithms
 Author    : Asmit Singh
-Solved On   : 17 Mar 2023
+Solved On   : 18 Mar 2023
 Solved Using   : Python3
 '''
 
