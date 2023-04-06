@@ -1,6 +1,6 @@
 """
 Title     : Count Special Numbers
-Domain    : Arrays, MAthematical, Sieve, Data Structures, Algorithms
+Domain    : Arrays, Mathematical, Sieve, Data Structures, Algorithms
 Author    : Asmit Singh
 Solved On   : 05 Apr 2023
 Solved Using   : Python3
