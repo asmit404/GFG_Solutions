@@ -1,5 +1,5 @@
 '''
-Title     : Topic Tags
+Title     : Convert an array to reduced form
 Domain    : Arrays, Sorting, Data Structures, Algorithms
 Author    : Asmit Singh
 Solved On   : 24 Jan 2023
