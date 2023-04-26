@@ -1,7 +1,7 @@
 '''
 Title     : Game of Subsets
 Author    : Asmit Singh
-Solved On   : 24 Apr 2023
+Solved On   : 25 Apr 2023
 Solved Using   : Python3
 '''
 
