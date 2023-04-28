@@ -1,7 +1,7 @@
 '''
 Title     : Easy Task
 Author    : Asmit Singh
-Solved On   : 27 Apr 2023
+Solved On   : 28 Apr 2023
 Solved Using   : Python3
 '''
 
