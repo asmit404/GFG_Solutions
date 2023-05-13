@@ -1,5 +1,5 @@
 '''
-Title     : Bit Operations
+Title     : Bit Magic
 Author    : Asmit Singh
 Solved On   : 13 May 2023
 Solved Using   : Python3
