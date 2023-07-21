@@ -5,7 +5,6 @@ Solved On   : 21 Jul 2023
 Solved Using   : Python3
 """
 
-
 class Solution:
     def reverse(self, head, k):
         if head == None:
