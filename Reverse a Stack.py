@@ -8,3 +8,6 @@ Solved Using   : Python3
 class Solution:
     def reverse(self, St):
         return St.reverse()
+
+# Time Complexity: O(N)
+# Space Complexity: O(1)
