@@ -1,5 +1,5 @@
 /*
-Title     : Remove and Reverse
+Title     : Redundant Parenthesis
 Domain    : Two-Pointer-Algorithm, Arrays, Strings, Data Structures, Algorithms
 Author    : Asmit Singh
 Solved On   : 24 Mar 2023
