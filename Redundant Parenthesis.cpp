@@ -2,7 +2,7 @@
 Title     : Redundant Parenthesis
 Domain    : Two-Pointer-Algorithm, Arrays, Strings, Data Structures, Algorithms
 Author    : Asmit Singh
-Solved On   : 24 Mar 2023
+Solved On   : 25 Mar 2023
 Solved Using   : C++
 */
 
