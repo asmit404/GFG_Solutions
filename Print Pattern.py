@@ -10,7 +10,7 @@ class Solution:
         if N <= 0:
             return [N,]
         a = list(range(N, -5, -5))
-        return a + a[::-1][1:]
+        return a + a[-2::-1]
 
 # Time Complexity  : O(n)
 # Space Complexity : O(n)
