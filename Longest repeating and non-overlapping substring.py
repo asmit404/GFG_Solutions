@@ -8,8 +8,8 @@ Solved Using   : Python3
 class Solution:
     def longestSubstring(self, s, n):
         res, maxi = "", -1
-        substr = ""
         for i in range(n):
+            substr = ""
             for j in range(i, n):
                 substr += s[j]
                 if substr in s[j+1:]:
